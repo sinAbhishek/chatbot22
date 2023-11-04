@@ -1,0 +1,26 @@
+.swiper-slide {
+  width: 70px !important;
+  height: max-content;
+  margin: 0 10 0 10px !important;
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.swiper-slide:hover {
+  cursor: pointer;
+}
+.time {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.blu {
+  background-color: #34c6eb;
+}
+.wht {
+  background-color: white;
+}
